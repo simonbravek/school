@@ -1,2 +1,2 @@
-# school02
+# school
 my school projects
