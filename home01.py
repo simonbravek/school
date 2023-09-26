@@ -1,4 +1,4 @@
-#Interaktivni verze
+#Interaktivni hadani cisla
 #verze PvE
 
 import random, time, sys
